@@ -60,9 +60,6 @@ ul{
 	font-size: 42px;
 	line-height: 57px;
 }
-.facebook:hover path{
-	fill: yellow;	
-}
 .button__path{
 	transition: fill .5s;
 }
