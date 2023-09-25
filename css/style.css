@@ -42,7 +42,7 @@ ul{
 	flex-direction: column;
 	justify-content: space-between;
 	padding: 70px 10px 38px;
-	margin-bottom: 150px;
+	margin-bottom: 50px;
 }
 .header__subtitle{
 	font-size: 18px;
@@ -60,10 +60,8 @@ ul{
 	font-size: 42px;
 	line-height: 57px;
 }
-.header__button{
-	margin-top: 50px;
-	margin-bottom: auto;
-	align-self: center;
+.facebook:hover path{
+	fill: yellow;	
 }
 .button__path{
 	transition: fill .5s;
@@ -75,8 +73,9 @@ ul{
 	font-size: 18px;
 	line-height: 25px;
 	display: inline-block;
-	transform: translateY(-17px);
-	margin-left: -57px;
+	transform: translateY(-45px);
+	margin-left: 0;
+	margin-bottom: 50px;
 }
 .social{
 	display: flex;
